@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UI_personalMsg</string>
+    <string name="hint_input">\t输入内容</string>
+    <string name="occupation">职位</string>
+    <string name="old">年龄</string>
+    <string name="grade">年级</string>
+    <string name="email">邮箱</string>
+    <string name="blog">博客</string>
+    <string name="job">岗位</string>
+    <string name="jobHint">\t工作岗位</string>
+    <string name="experience">经历</string>
+
+</resources>
